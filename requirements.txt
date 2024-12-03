@@ -3,5 +3,5 @@ google-generativeai
 python-dotenv
 langchain-google-genai
 youtube-transcript-api
-googletrans==4.0.0-rc1
+googletrans
 pathlib
